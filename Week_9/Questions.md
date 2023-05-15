@@ -33,7 +33,7 @@ accessed directly from the outside the class.
 (c)
 (i) Construct unified modelling language (UML) diagrams to clearly show the relationship between the SalesPerson
 and Sales classes. (4 points)
-- ![Diagram.png](images%2FDiagram.png)Attached file
+![Diagram.png](images%2FDiagram.png)
 
 (ii) Outline a negative effect that a future change in the design of the Sales object might have on this suite
 of programs. (2 points)
@@ -41,7 +41,7 @@ of programs. (2 points)
 additional modifications.
 
 (d) State the output after running this code. (4 points)
-- ![Output.png](images%2FOutput.png)
+![Output.png](images%2FOutput.png)
 
 (e) Construct the method calcTotalSales(), in the SalesPerson class that calculates the total value of the sales
 for a specific SalesPerson object. (5 points)
